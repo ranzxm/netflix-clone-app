@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/netflix-clone-app/static/css/main.fd5be2e4.css",
-    "main.js": "/netflix-clone-app/static/js/main.11f7e89d.js",
-    "static/js/787.440c4889.chunk.js": "/netflix-clone-app/static/js/787.440c4889.chunk.js",
-    "static/media/vid1.m4v": "/netflix-clone-app/static/media/vid1.053994fc9a5da7a97b5b.m4v",
-    "static/media/pic2.png": "/netflix-clone-app/static/media/pic2.1e833edf738e796645fd.png",
-    "static/media/vid2.m4v": "/netflix-clone-app/static/media/vid2.b27bb59e747d5b567095.m4v",
-    "static/media/hero-netflix.jpg": "/netflix-clone-app/static/media/hero-netflix.6416fb7bcdec49e8432e.jpg",
-    "static/media/tv2.png": "/netflix-clone-app/static/media/tv2.8e6539e8bfc6937a0648.png",
-    "static/media/m2.jpg": "/netflix-clone-app/static/media/m2.063578d5b6d5ab4155ec.jpg",
-    "static/media/netflix-logo.png": "/netflix-clone-app/static/media/netflix-logo.77ba64d8813d5a26e7e7.png",
-    "static/media/ani1g.gif": "/netflix-clone-app/static/media/ani1g.1ce72c891b52e6f68f2f.gif",
-    "static/media/m2-1.png": "/netflix-clone-app/static/media/m2-1.347f4ee3bafbdfe71112.png",
-    "static/media/tv.png": "/netflix-clone-app/static/media/tv.0049bc70babc1f94cf88.png",
-    "index.html": "/netflix-clone-app/index.html",
-    "static/media/close.svg": "/netflix-clone-app/static/media/close.6788b591f7c39f95371857874a4a8f3f.svg",
-    "static/media/plus.svg": "/netflix-clone-app/static/media/plus.930cff926bfb40cb0f5f8d02ef3fecb6.svg",
-    "main.fd5be2e4.css.map": "/netflix-clone-app/static/css/main.fd5be2e4.css.map",
-    "main.11f7e89d.js.map": "/netflix-clone-app/static/js/main.11f7e89d.js.map",
-    "787.440c4889.chunk.js.map": "/netflix-clone-app/static/js/787.440c4889.chunk.js.map"
+    "main.css": "/static/css/main.fd5be2e4.css",
+    "main.js": "/static/js/main.0866d448.js",
+    "static/js/787.440c4889.chunk.js": "/static/js/787.440c4889.chunk.js",
+    "static/media/vid1.m4v": "/static/media/vid1.053994fc9a5da7a97b5b.m4v",
+    "static/media/pic2.png": "/static/media/pic2.1e833edf738e796645fd.png",
+    "static/media/vid2.m4v": "/static/media/vid2.b27bb59e747d5b567095.m4v",
+    "static/media/hero-netflix.jpg": "/static/media/hero-netflix.6416fb7bcdec49e8432e.jpg",
+    "static/media/tv2.png": "/static/media/tv2.8e6539e8bfc6937a0648.png",
+    "static/media/m2.jpg": "/static/media/m2.063578d5b6d5ab4155ec.jpg",
+    "static/media/netflix-logo.png": "/static/media/netflix-logo.77ba64d8813d5a26e7e7.png",
+    "static/media/ani1g.gif": "/static/media/ani1g.1ce72c891b52e6f68f2f.gif",
+    "static/media/m2-1.png": "/static/media/m2-1.347f4ee3bafbdfe71112.png",
+    "static/media/tv.png": "/static/media/tv.0049bc70babc1f94cf88.png",
+    "index.html": "/index.html",
+    "static/media/close.svg": "/static/media/close.6788b591f7c39f95371857874a4a8f3f.svg",
+    "static/media/plus.svg": "/static/media/plus.930cff926bfb40cb0f5f8d02ef3fecb6.svg",
+    "main.fd5be2e4.css.map": "/static/css/main.fd5be2e4.css.map",
+    "main.0866d448.js.map": "/static/js/main.0866d448.js.map",
+    "787.440c4889.chunk.js.map": "/static/js/787.440c4889.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd5be2e4.css",
-    "static/js/main.11f7e89d.js"
+    "static/js/main.0866d448.js"
   ]
 }
